@@ -10,7 +10,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import ca.viinc.ereceiptpro.framework.BaseApplication;
+import ca.viinc.fntscanreceipt.BaseApplication;
+
 
 /**
  * Created by Goutham on 20/05/19.

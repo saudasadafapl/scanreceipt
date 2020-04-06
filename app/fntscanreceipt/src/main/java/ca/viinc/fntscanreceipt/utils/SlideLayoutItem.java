@@ -29,7 +29,8 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-import ca.viinc.ereceiptpro.R;
+import ca.viinc.fntscanreceipt.R;
+
 
 public class SlideLayoutItem extends FrameLayout {
 

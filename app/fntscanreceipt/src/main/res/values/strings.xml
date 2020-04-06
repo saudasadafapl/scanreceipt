@@ -201,6 +201,7 @@
     <string name="email_id_for_verification">Please provide your email id for verification</string>
     <string name="send_verification">Send Verification</string>
     <string name="where_you_want_to_upload">Please choose from where you want to upload</string>
+    <string name="app_name">eReceipt Pro</string>
 
     <string-array name="referral_array">
         <item>Select your choice…</item>

@@ -15,7 +15,8 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.nio.channels.FileChannel;
 
-import ca.viinc.ereceiptpro.R;
+import ca.viinc.fntscanreceipt.R;
+
 
 public class DownloadHelper {
 
