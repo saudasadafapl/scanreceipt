@@ -1,0 +1,3 @@
+rootProject.name='FNTLib'
+include ':app'
+include ':app:fntscanreceipt'
